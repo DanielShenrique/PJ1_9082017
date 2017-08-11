@@ -17,3 +17,12 @@ C:\Users\Daniel.Henrique\Downloads\PJ1_4082017-master\PJ14082107\obj\Debug\PJ140
 C:\Users\Daniel.Henrique\Downloads\PJ1_4082017-master\PJ14082107\obj\Debug\PJ14082107.Form1.resources
 C:\Users\Daniel.Henrique\Downloads\PJ1_4082017-master\PJ14082107\obj\Debug\PJ14082107.Properties.Resources.resources
 C:\Users\Daniel.Henrique\Downloads\PJ1_4082017-master\PJ14082107\obj\Debug\PJ14082107.csproj.GenerateResource.Cache
+C:\Users\Daniel.Henrique\Desktop\GitHub\PJ1_9082017\PJ14082107\bin\Debug\PJ14082107.exe.config
+C:\Users\Daniel.Henrique\Desktop\GitHub\PJ1_9082017\PJ14082107\obj\Debug\PJ14082107.exe
+C:\Users\Daniel.Henrique\Desktop\GitHub\PJ1_9082017\PJ14082107\obj\Debug\PJ14082107.pdb
+C:\Users\Daniel.Henrique\Desktop\GitHub\PJ1_9082017\PJ14082107\bin\Debug\PJ14082107.exe
+C:\Users\Daniel.Henrique\Desktop\GitHub\PJ1_9082017\PJ14082107\bin\Debug\PJ14082107.pdb
+C:\Users\Daniel.Henrique\Desktop\GitHub\PJ1_9082017\PJ14082107\obj\Debug\PJ14082107.csprojResolveAssemblyReference.cache
+C:\Users\Daniel.Henrique\Desktop\GitHub\PJ1_9082017\PJ14082107\obj\Debug\PJ14082107.Form1.resources
+C:\Users\Daniel.Henrique\Desktop\GitHub\PJ1_9082017\PJ14082107\obj\Debug\PJ14082107.Properties.Resources.resources
+C:\Users\Daniel.Henrique\Desktop\GitHub\PJ1_9082017\PJ14082107\obj\Debug\PJ14082107.csproj.GenerateResource.Cache
